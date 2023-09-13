@@ -1,3 +1,3 @@
 # [x] Introdução a Machine Learning
-# [ ] Lidando com grandes Datasets
+# [x] Lidando com grandes Datasets
 
